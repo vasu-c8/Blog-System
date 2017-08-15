@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"Use",
+				"User"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"e",
+				"exports"
+			],
+			[
+				"do",
+				"done"
+			],
+			[
+				"Local",
+				"localStrategy"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"User",
+				"userSchema"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"pro",
+				"profileimage"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"uplo",
+				"uploads"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"t",
+				"target\tAttr"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"A",
+				"alt\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"h",
+				"h2\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "i",
+		"selected_items":
+		[
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/views/layout.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/app.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/routes/index.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/routes/users.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/public/stylesheets/bootstrap.css",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/views/login.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/models/user.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/public/stylesheets/style.css",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/views/register.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/views/index.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/UserLoginSystem/node_modules/async/dist/async.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/NodeAuth/routes/users.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/NodeAuth/app.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/NodeAuth/package.json",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/NodeAuth/routes/index.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/views/layout.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/views/about.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/views/contact.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/expresswebsite/views/index.jade",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/app.js",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/package.json",
+		"/Users/vasundharachimmad/Documents/BrainFood/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/views/index.jade",
+		"/Users/vasundharachimmad/Documents/Workspace/Tutorials/NODE/Learn Nodejs by building 10 projects/SimpleServer/server.js",
+		"/Users/vasundharachimmad/Documents/Workspace/legacy-website/news.php",
+		"/Users/vasundharachimmad/Documents/Workspace/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/app.js",
+		"/Users/vasundharachimmad/Documents/Workspace/Tutorials/NODE/Learn Nodejs by building 10 projects/express_website/package.json",
+		"/Users/vasundharachimmad/Documents/Workspace/Tutorials/Udemy_Build Your First Website in 1 Week with HTML5 and CSS3/first-site/css/custom.css",
+		"/Users/vasundharachimmad/Documents/Workspace/Tutorials/Udemy_Build Your First Website in 1 Week with HTML5 and CSS3/first-site/index.html",
+		"/Users/vasundharachimmad/Documents/Workspace/RaghuWedsAshka/backend/server/server.js",
+		"/Users/vasundharachimmad/Documents/Workspace/RaghuWedsAshka/site/app.js",
+		"/Users/vasundharachimmad/Documents/Workspace/RaghuWedsAshka/site/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cors",
+			"rsvp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
